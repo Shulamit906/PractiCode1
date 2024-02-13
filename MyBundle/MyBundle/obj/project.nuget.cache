@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bt8kimja2ljHWq6d+KI5cFWN4tm62IrQoiPoKEE1/ArE7n19kWWuJ0CF2I7KDEvgi/K93L8Ow/j3WWXKzCjIDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Desktop\\תכנות\\פרקטיקוד\\תרגיל 1\\MyBundle\\MyBundle\\fib1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}

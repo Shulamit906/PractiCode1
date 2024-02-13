@@ -1,0 +1,120 @@
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\fib1.exe
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\fib1.deps.json
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\fib1.runtimeconfig.json
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\fib1.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\fib1.pdb
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\System.CommandLine.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\obj\Debug\net6.0\fib1.csproj.AssemblyReference.cache
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\obj\Debug\net6.0\fib1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\obj\Debug\net6.0\fib1.AssemblyInfoInputs.cache
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\obj\Debug\net6.0\fib1.AssemblyInfo.cs
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\obj\Debug\net6.0\fib1.csproj.CoreCompileInputs.cache
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\obj\Debug\net6.0\fib1.csproj.CopyComplete
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\obj\Debug\net6.0\fib1.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\obj\Debug\net6.0\refint\fib1.dll
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\obj\Debug\net6.0\fib1.pdb
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\obj\Debug\net6.0\fib1.genruntimeconfig.cache
+C:\Users\hitmachut\Desktop\MyBundle\MyBundle\obj\Debug\net6.0\ref\fib1.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\fib1.exe
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\fib1.deps.json
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\fib1.runtimeconfig.json
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\fib1.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\fib1.pdb
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\System.CommandLine.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\obj\Debug\net6.0\fib1.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\obj\Debug\net6.0\fib1.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\obj\Debug\net6.0\fib1.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\obj\Debug\net6.0\fib1.AssemblyInfo.cs
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\obj\Debug\net6.0\fib1.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\obj\Debug\net6.0\fib1.csproj.CopyComplete
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\obj\Debug\net6.0\fib1.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\obj\Debug\net6.0\refint\fib1.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\obj\Debug\net6.0\fib1.pdb
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\obj\Debug\net6.0\fib1.genruntimeconfig.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\MyBundle\MyBundle\obj\Debug\net6.0\ref\fib1.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\fib1.exe
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\fib1.deps.json
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\fib1.runtimeconfig.json
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\fib1.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\fib1.pdb
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\System.CommandLine.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\obj\Debug\net6.0\fib1.csproj.AssemblyReference.cache
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\obj\Debug\net6.0\fib1.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\obj\Debug\net6.0\fib1.AssemblyInfoInputs.cache
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\obj\Debug\net6.0\fib1.AssemblyInfo.cs
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\obj\Debug\net6.0\fib1.csproj.CoreCompileInputs.cache
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\obj\Debug\net6.0\fib1.csproj.CopyComplete
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\obj\Debug\net6.0\fib1.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\obj\Debug\net6.0\refint\fib1.dll
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\obj\Debug\net6.0\fib1.pdb
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\obj\Debug\net6.0\fib1.genruntimeconfig.cache
+E:\פרקטיקוד מהסמינר\MyBundle\MyBundle\obj\Debug\net6.0\ref\fib1.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\fib1.exe
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\fib1.deps.json
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\fib1.runtimeconfig.json
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\fib1.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\fib1.pdb
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\System.CommandLine.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\obj\Debug\net6.0\fib1.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\obj\Debug\net6.0\fib1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\obj\Debug\net6.0\fib1.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\obj\Debug\net6.0\fib1.AssemblyInfo.cs
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\obj\Debug\net6.0\fib1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\obj\Debug\net6.0\fib1.csproj.CopyComplete
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\obj\Debug\net6.0\fib1.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\obj\Debug\net6.0\refint\fib1.dll
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\obj\Debug\net6.0\fib1.pdb
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\obj\Debug\net6.0\fib1.genruntimeconfig.cache
+C:\Users\1\Desktop\תכנות\פרקטיקוד\תרגיל 1\MyBundle\MyBundle\obj\Debug\net6.0\ref\fib1.dll
